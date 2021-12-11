@@ -1,0 +1,19 @@
+.activebtn{
+    margin:25px auto;
+    padding: 5px 30px;
+    font-size: 18px;
+
+    background-color: transparent;
+    border: 2px double #f2580f;
+    border-radius: 18px;
+
+}
+
+
+
+
+@media (max-width:560px) and (min-width:315px){
+    .activebtn{
+        margin-top: 45px;
+    }
+}
